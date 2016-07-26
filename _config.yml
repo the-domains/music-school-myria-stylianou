@@ -1,14 +1,14 @@
-layout_spectrum: 0.5695670063141733
-typography_spectrum: 0.5273156457114965
+layout_spectrum: 0.5072859812062234
+typography_spectrum: 0.4217855972237885
 color:
-  brandStrength: 0.6142883282154799
-  lightness: 0.4885494443587959
-  saturation: 0.5569146652705967
-  rhythmicContrast: 0.041842620354145765
+  brandStrength: 0.8951141077559441
+  lightness: 0.9688732055947185
+  saturation: 0.009684356395155191
+  rhythmicContrast: 0.6900853719562292
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
     - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Music School - Myria Stylianou
